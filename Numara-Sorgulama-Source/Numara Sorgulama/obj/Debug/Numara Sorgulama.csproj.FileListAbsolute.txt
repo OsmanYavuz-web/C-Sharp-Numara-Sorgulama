@@ -1,0 +1,50 @@
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\Numara Sorgulama.exe.config
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\Numara Sorgulama.exe
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\Numara Sorgulama.pdb
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.csprojResolveAssemblyReference.cache
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara_Sorgulama.Form1.resources
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara_Sorgulama.Properties.Resources.resources
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.csproj.GenerateResource.Cache
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.exe
+c:\users\_dangerousman\documents\visual studio 2012\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.pdb
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2012\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara_Sorgulama.Form2.resources
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\Numara Sorgulama.exe.config
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.exe
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.pdb
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\Numara Sorgulama.exe
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\Numara Sorgulama.pdb
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.csprojResolveAssemblyReference.cache
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara_Sorgulama.Form1.resources
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara_Sorgulama.Form2.resources
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara_Sorgulama.Properties.Resources.resources
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.csproj.GenerateResource.Cache
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\HtmlAgilityPack.dll
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\HtmlAgilityPack.xml
+C:\Users\_DangerOusMaN\Documents\Visual Studio 2013\Projects\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara_Sorgulama.Form3.resources
+X:\Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\Numara Sorgulama.exe.config
+X:\Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.exe
+X:\Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.pdb
+X:\Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\Numara Sorgulama.exe
+X:\Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\Numara Sorgulama.pdb
+X:\Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\HtmlAgilityPack.pdb
+X:\Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\HtmlAgilityPack.xml
+X:\Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.csprojResolveAssemblyReference.cache
+X:\Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara_Sorgulama.Form1.resources
+X:\Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara_Sorgulama.Form2.resources
+X:\Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara_Sorgulama.Form3.resources
+X:\Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara_Sorgulama.Properties.Resources.resources
+X:\Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.csproj.GenerateResource.Cache
+D:\VB6 - C# Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\Numara Sorgulama.exe.config
+D:\VB6 - C# Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.exe
+D:\VB6 - C# Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.pdb
+D:\VB6 - C# Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\Numara Sorgulama.exe
+D:\VB6 - C# Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\Numara Sorgulama.pdb
+D:\VB6 - C# Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\HtmlAgilityPack.pdb
+D:\VB6 - C# Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\bin\Debug\HtmlAgilityPack.xml
+D:\VB6 - C# Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.csprojResolveAssemblyReference.cache
+D:\VB6 - C# Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara_Sorgulama.Form1.resources
+D:\VB6 - C# Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara_Sorgulama.Form2.resources
+D:\VB6 - C# Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara_Sorgulama.Form3.resources
+D:\VB6 - C# Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara_Sorgulama.Properties.Resources.resources
+D:\VB6 - C# Projelerim\Numara-Sorgulama-Source\Numara Sorgulama\obj\Debug\Numara Sorgulama.csproj.GenerateResource.Cache
